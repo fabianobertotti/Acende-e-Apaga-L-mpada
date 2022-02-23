@@ -18,6 +18,6 @@ function alternarImg(){
 function alternarAutomatico() {
     window.setInterval(()=>{
         alternarImg();
-    }, 1000);
+    }, 100);
 }
 
